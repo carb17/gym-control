@@ -1,5 +1,10 @@
 # 🏋️‍♀️ Gym Control
 
+![PHP](https://img.shields.io/badge/PHP-v8.x-blue)
+![MySQL](https://img.shields.io/badge/MySQL-v8.x-orange)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.x-purple)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
 Sistema de gestión para gimnasios desarrollado en **PHP**, **Bootstrap** y **JavaScript**, con autenticación de usuarios y control completo de clientes, entrenadores, planes y pagos.
 
 ---
